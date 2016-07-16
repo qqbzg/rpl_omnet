@@ -1,0 +1,3523 @@
+----------------------------------------------------------------------
+
+
+Tcl error: tkenv.cc#966: null or malformed pointer
+    while executing
+"opp_msgarrtimefromnow $msgptr"
+    (procedure "redrawTimeline" line 68)
+    invoked from within
+"redrawTimeline"
+
+
+----------------------------------------------------------------------
+
+
+Tcl error: tkenv.cc#966: null or malformed pointer
+    while executing
+"opp_msgarrtimefromnow $msgptr"
+    (procedure "redrawTimeline" line 68)
+    invoked from within
+"redrawTimeline"
+
+
+----------------------------------------------------------------------
+
+
+Tcl error: tkenv.cc#966: null or malformed pointer
+    while executing
+"opp_msgarrtimefromnow $msgptr"
+    (procedure "redrawTimeline" line 68)
+    invoked from within
+"redrawTimeline"
+
+
+----------------------------------------------------------------------
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fde8db0f9f0 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fde8db0f9f0 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fde8db0e310 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fde8db0e310 1"
+
+
+----------------------------------------------------------------------
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fed0b9a2560 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fed0b9a2560 1"
+
+
+----------------------------------------------------------------------
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+----------------------------------------------------------------------
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I-1li"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+Tcl error: loginspector.cc#135: bad text index "I"
+
+
+----------------------------------------------------------------------
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fa8e5a76540 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fa8e5a76540 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fa8e5a76ce0 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fa8e5a76ce0 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fa8e5a769f0 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fa8e5a769f0 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fa8e5a76ce0 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fa8e5a76ce0 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fa8e5a76ce0 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fa8e5a76ce0 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fa8e5a76ce0 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fa8e5a76ce0 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fa8e5a76ce0 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fa8e5a76ce0 1"
+
+
+----------------------------------------------------------------------
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7f97041c9590 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7f97041c9590 1"
+
+
+----------------------------------------------------------------------
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fddad1eef80 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fddad1eef80 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fddad1ef1c0 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fddad1ef1c0 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fddad1ee7a0 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fddad1ee7a0 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fddad1ef300 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fddad1ef300 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fddad1eec90 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fddad1eec90 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fddad1eded0 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fddad1eded0 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fddad1ee7a0 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fddad1ee7a0 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fddad0bd3a0 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fddad0bd3a0 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fddad1ef670 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fddad1ef670 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fddad1eded0 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fddad1eded0 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fddad361a40 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fddad361a40 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fddad1ef300 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fddad1ef300 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fddad1ef300 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fddad1ef300 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fddad1ee9b0 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fddad1ee9b0 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fddad1ee9b0 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fddad1ee9b0 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fddad34ec60 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fddad34ec60 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fddad1ee9b0 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fddad1ee9b0 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fddad1ef670 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fddad1ef670 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fddad1ef960 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fddad1ef960 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fddad1eded0 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fddad1eded0 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fddad0bd3a0 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fddad0bd3a0 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fddad1eded0 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fddad1eded0 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fddad1ef960 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fddad1ef960 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fddad1ef1c0 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fddad1ef1c0 1"
+
+
+----------------------------------------------------------------------
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fe7e860fae0 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fe7e860fae0 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fe7e860c940 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fe7e860c940 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fe7e860f8e0 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fe7e860f8e0 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fe7e8610780 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fe7e8610780 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fe7e8610780 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fe7e8610780 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fe7e860fae0 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fe7e860fae0 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fe7e860c760 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fe7e860c760 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fe7e860e620 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fe7e860e620 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fe7e860de10 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fe7e860de10 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fe7e860de10 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fe7e860de10 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fe7e860de10 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fe7e860de10 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fe7e860de10 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fe7e860de10 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fe7e860de10 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fe7e860de10 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fe7e860de10 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fe7e860de10 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fe7e860de10 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fe7e860de10 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fe7e860de10 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fe7e860de10 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fe7eb0c5090 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fe7eb0c5090 1"
+
+
+----------------------------------------------------------------------
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fba161d4110 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fba161d4110 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fba161d3240 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fba161d3240 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fba161d3c60 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fba161d3c60 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fba161d3da0 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fba161d3da0 1"
+
+
+----------------------------------------------------------------------
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7ff9b5a4d940 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7ff9b5a4d940 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7ff9b5a4d250 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7ff9b5a4d250 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7ff9b5a4d5d0 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7ff9b5a4d5d0 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7ff9b5a52f60 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7ff9b5a52f60 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7ff9b5a4cc80 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7ff9b5a4cc80 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7ff9b5a4c1a0 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7ff9b5a4c1a0 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7ff9b5a4d5d0 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7ff9b5a4d5d0 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7ff9b5a4d5d0 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7ff9b5a4d5d0 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7ff9b5a4d5d0 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7ff9b5a4d5d0 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7ff9b5a4d5d0 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7ff9b5a4d5d0 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7ff9b5a4d5d0 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7ff9b5a4d5d0 1"
+
+
+----------------------------------------------------------------------
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7ff644246040 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7ff644246040 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7ff644245b90 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7ff644245b90 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7ff6442448a0 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7ff6442448a0 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7ff644245950 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7ff644245950 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7ff644245660 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7ff644245660 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7ff644246330 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7ff644246330 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7ff644246330 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7ff644246330 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7ff644246040 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7ff644246040 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7ff6442448a0 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7ff6442448a0 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7ff644245380 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7ff644245380 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7ff644245cd0 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7ff644245cd0 1"
+
+
+----------------------------------------------------------------------
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fb1961f0f40 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fb1961f0f40 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fb1961ea180 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fb1961ea180 1"
+
+
+----------------------------------------------------------------------
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fec449c0630 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fec449c0630 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fec449c0420 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fec449c0420 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fec449bfb50 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fec449bfb50 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fec449c0630 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fec449c0630 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fec449c0f80 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fec449c0f80 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fec449c0630 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fec449c0630 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fec449bfb50 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fec449bfb50 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fec449c0630 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fec449c0630 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fec449c0630 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fec449c0630 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fec449c0f80 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fec449c0f80 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fec449c0f80 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fec449c0f80 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fec449c0630 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fec449c0630 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fec449c15e0 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fec449c15e0 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fec449c15e0 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fec449c15e0 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fec449c0910 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fec449c0910 1"
+
+
+----------------------------------------------------------------------
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fd5969f4da0 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fd5969f4da0 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fd5969f5b60 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fd5969f5b60 1"
+
+
+----------------------------------------------------------------------
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7f8a24178bc0 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7f8a24178bc0 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7f8a24178eb0 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7f8a24178eb0 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7f8a24177e00 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7f8a24177e00 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7f8a24178eb0 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7f8a24178eb0 1"
+
+
+----------------------------------------------------------------------
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fe914a26600 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fe914a26600 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fe914a26e10 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fe914a26e10 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fe91483e4f0 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fe91483e4f0 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fe9149fbe50 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fe9149fbe50 1"
+
+
+----------------------------------------------------------------------
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7ff2a6a4cdb0 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7ff2a6a4cdb0 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7ff2a6a52740 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7ff2a6a52740 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7ff2a67ecfc0 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7ff2a67ecfc0 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7ff2a6a4c460 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7ff2a6a4c460 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7ff2a6a4cdb0 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7ff2a6a4cdb0 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7ff2a6a49980 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7ff2a6a49980 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7ff2a67f5480 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7ff2a67f5480 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7ff2a6a4c250 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7ff2a6a4c250 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7ff2a6a4cc70 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7ff2a6a4cc70 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7ff2a6a4c250 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7ff2a6a4c250 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7ff2a6a4c740 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7ff2a6a4c740 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7ff2a6a4cdb0 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7ff2a6a4cdb0 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7ff2a6a4cdb0 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7ff2a6a4cdb0 1"
+
+
+----------------------------------------------------------------------
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7ff6fc0eb5f0 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7ff6fc0eb5f0 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7ff6fc0f0aa0 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7ff6fc0f0aa0 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7ff6fc0ebe00 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7ff6fc0ebe00 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7ff6f950fa80 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7ff6f950fa80 1"
+
+
+----------------------------------------------------------------------
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fd138c25cc0 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fd138c25cc0 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fd138c28350 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fd138c28350 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fd138c252b0 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fd138c252b0 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fd138c25f70 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fd138c25f70 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fd138c25f70 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fd138c25f70 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fd138c28750 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fd138c28750 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fd138c28430 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fd138c28430 1"
+
+
+----------------------------------------------------------------------
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7f96dbc1b1c0 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7f96dbc1b1c0 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7f96de935a70 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7f96de935a70 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7f96de93e050 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7f96de93e050 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7f96dbc1ae10 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7f96dbc1ae10 1"
+
+
+----------------------------------------------------------------------
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fc6c40e20e0 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fc6c40e20e0 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fc6c40e20e0 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fc6c40e20e0 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fc6c40e20e0 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fc6c40e20e0 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fc6c40e20e0 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fc6c40e20e0 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fc6c40e20e0 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fc6c40e20e0 1"
+
+
+----------------------------------------------------------------------
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7f86259e6a50 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7f86259e6a50 1"
+
+
+----------------------------------------------------------------------
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7fd7c0608d40 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7fd7c0608d40 1"
+
+
+----------------------------------------------------------------------
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7ff73d218720 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7ff73d218720 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7ff73d217ba0 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7ff73d217ba0 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7ff73d215680 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7ff73d215680 1"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7ff73d228890 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7ff73d228890 2"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7ff73d228890 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7ff73d228890 2"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7ff73d228890 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7ff73d228890 2"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7ff73d228890 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7ff73d228890 2"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7ff73d228890 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7ff73d228890 2"
+
+
+Tcl error: moduleinspector.cc#631: ptr0x7ff73d228890 not found
+    while executing
+"error "$tag not found""
+    (procedure "ModuleInspector:getSubmodCoords" line 4)
+    invoked from within
+"ModuleInspector:getSubmodCoords $c $modptr"
+    (procedure "ModuleInspector:drawNextEventMarker" line 2)
+    invoked from within
+"ModuleInspector:drawNextEventMarker .network.c ptr0x7ff73d228890 2"
+
+

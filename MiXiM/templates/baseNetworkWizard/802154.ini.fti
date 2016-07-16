@@ -1,0 +1,41 @@
+##########################################################
+#       Parameters for the ConnectionManager             #
+##########################################################
+**.connectionManager.carrierFrequency = 2.4e9Hz  # [Hz]
+
+# max transmission power [mW]
+**.connectionManager.pMax = 0.0031622778mW  # (-25dB)
+# signal attenuation threshold [dBm]
+**.connectionManager.sat = -95dBm  # [dBm]
+# path loss coefficient alpha
+**.connectionManager.alpha = 3.0
+**.connectionManager.sendDirect = false
+##########################################################
+#       Parameters for the Host                          #
+##########################################################
+
+############# Phy parameters #############################
+**.phy.usePropagationDelay = false
+**.phy.useThermalNoise = true
+**.phy.analogueModels = xmldoc("config.xml")
+**.phy.maxTXPower = 0.0031622778mW
+**.phy.sensitivity = -95dBm
+**.nic.mac.txPower = 0.0031622778mW
+**.nic.mac.useMACAcks = false
+**.nic.mac.queueLength = 0
+**.nic.mac.ccaDetectionTime = 0.000128s
+**.node[*].nic.mac.rxSetupTime = 0.001792s
+############# Battery statistic parameters ###############
+**.batteryStats.debug = false
+**.batteryStats.detail = false
+**.batteryStats.timeSeries = false
+
+############# Battery parameters #########################
+**.battery.debug = false
+**.battery.nominal = 99999mAh
+**.battery.capacity = 99999mAh
+**.battery.voltage = 3.3V
+**.battery.resolution = 90000s
+**.battery.publishDelta = 0.1
+**.battery.publishTime = 0
+**.battery.numDevices = 1

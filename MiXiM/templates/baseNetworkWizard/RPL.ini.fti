@@ -1,0 +1,23 @@
+**.node[*].networkType = "RPL"
+**.node[*].netwl.headerLength = 0 bit # this is not used
+################ NETW layer-Trickle parameters for DIO ###################
+
+**.node[*].netwl.FilePath = "F:\\1\\"
+
+**.node[*].netwl.DIOheaderLength = 73 Byte
+**.node[*].netwl.DIOIntMin = 0.008s   #in seconds
+**.node[*].netwl.DIOIntDoubl = 20
+**.node[*].netwl.DIORedun = 10
+**.node[*].netwl.GlobalRepairTimer = 10000s  #in seconds
+**.node[*].netwl.NumberofIterations = 20
+
+################ NETW layer-Trickle parameters for DIS ###################
+
+**.node[*].netwl.DISEnable = false
+**.node[*].netwl.DISheaderLength = 27 Byte
+**.node[*].netwl.DISStartDelay = 0.2
+**.node[*].netwl.DISIntMin = 0.03s   #in seconds
+**.node[*].netwl.DISIntDoubl = 0
+**.node[*].netwl.DISRedun = 1
+
+

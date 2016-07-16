@@ -1,0 +1,6 @@
+**.node[*].applicationType = "SensorApplLayer"
+**.appl.trafficType = "periodic"
+**.appl.trafficParam = 9000000s #in seconds
+**.appl.broadcastPackets = true
+**.appl.nbPackets = 0
+**.appl.initializationTime = 9000000s

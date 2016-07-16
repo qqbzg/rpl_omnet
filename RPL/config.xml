@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<AnalogueModels>
+		<AnalogueModel type="MyModel">
+		    <!-- My channel model -->
+	    	<parameter name="alpha" type="double" value="3.5"/>
+	    	<parameter name="ReferenceDistance" type="double" value="1.0"/>
+	    	<parameter name="carrierFrequency" type="double" value="2.4E+9"/>
+	    </AnalogueModel>
+		<!-- we add a log-normal shadowing effect on top of the MyModel(FreeSpace) path loss --> 
+	    <AnalogueModel type="LogNormalShadowing">
+	    	<!-- Mean attenuation in dB -->
+	    	<parameter name="mean" type="double" value="0.0"/>
+	    	<!-- Standart deviation of the attenuation in dB -->
+	    	<parameter name="stdDev" type="double" value="6.0"/>
+	    	<!-- Interval in which to define attenuation for in seconds -->
+	    	<parameter name="interval" type="double" value="0.001"/>
+	    </AnalogueModel>
+	</AnalogueModels>
+	<Decider type="Decider802154Narrow">
+		 <!--Length of Start Frame Delimiter (used to compute probability of successful 
+			synchronization)-->
+		 <parameter name="sfdLength" type="long" value="8"/>
+		
+	   	 <!--minimum possible bit error rate (BER floor)-->
+		 <parameter name="berLowerBound" type="double" value="1e-8"/>
+		
+		 <!--modulation type-->
+		 <parameter name="modulation" type="string" value="oqpsk16"/>
+	</Decider>	
+</root>
